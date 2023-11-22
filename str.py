@@ -1,0 +1,2 @@
+x = "sara"
+x.capitalize()
